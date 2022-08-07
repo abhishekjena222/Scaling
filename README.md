@@ -1,4 +1,5 @@
 # Scaling
 
-Load Balancing and Auto-Scaling in Cloud Computing.
-Load Balancing and Auto-Scaling in Cloud Computing.
+Before starting the definition of load balancing,
+let’s take an example.
+
